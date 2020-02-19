@@ -1,0 +1,6 @@
+projectKey=SpringExample
+serverUrl=http://localhost:9005
+serverVersion=8.1.0.31237
+dashboardUrl=http://localhost:9005/dashboard?id=SpringExample
+ceTaskId=AXAzXhImQ_v3_F6s3yfK
+ceTaskUrl=http://localhost:9005/api/ce/task?id=AXAzXhImQ_v3_F6s3yfK
